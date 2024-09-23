@@ -1,0 +1,2 @@
+ficheiro numero 1
+:wq
