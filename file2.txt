@@ -1,1 +1,2 @@
 este é o ficheiro 2
+tive de alterar o segundo ficheiro
